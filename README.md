@@ -1,2 +1,2 @@
-# class-22-new
-physics engine / bouncy ball
+# staticSquare
+A static square made using Matter.js physics engine
